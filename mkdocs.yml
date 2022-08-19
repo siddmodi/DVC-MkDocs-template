@@ -4,13 +4,13 @@ site_name: REPO_NAME_OR_SITE_NAME
 nav:
   - Home: index.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: Siddharth Modi
 site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: https://github.com/siddmodi?tab=repositories
+repo_url: https://github.com/siddmodi/REPO_NAME
 
 # Configuration
 theme:
@@ -39,13 +39,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/c17hawke
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/c17hawke
+      link: https://github.com/siddmodi
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/c17hawke
+      link: https://www.linkedin.com/in/siddharth-modi-81b868172/
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/c17hawke/
+      link: https://www.instagram.com/sidd.modi/
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -70,4 +68,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/siddmodi"  target="_blank" rel="noopener">Siddharth Modi</a>
